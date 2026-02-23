@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nakopitel/static/css/main.b2ebeea6.css",
+    "main.js": "/nakopitel/static/js/main.390f255b.js",
+    "static/js/453.20359781.chunk.js": "/nakopitel/static/js/453.20359781.chunk.js",
+    "index.html": "/nakopitel/index.html",
+    "main.b2ebeea6.css.map": "/nakopitel/static/css/main.b2ebeea6.css.map",
+    "main.390f255b.js.map": "/nakopitel/static/js/main.390f255b.js.map",
+    "453.20359781.chunk.js.map": "/nakopitel/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ebeea6.css",
+    "static/js/main.390f255b.js"
+  ]
+}
